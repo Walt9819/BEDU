@@ -6,3 +6,4 @@
 |Topic|Folder|Date|
 |-|-|-|
 |Sesión 1|[sesion01](sesion01)|24/11/2020|
+|Sesión 2|[sesion02](sesion02)|26/11/2020|
