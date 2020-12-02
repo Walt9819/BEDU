@@ -7,3 +7,4 @@
 |-|-|-|
 |Sesión 1|[sesion01](sesion01)|24/11/2020|
 |Sesión 2|[sesion02](sesion02)|26/11/2020|
+|Sesión 3|[sesion03](sesion03)|01/12/2020|
