@@ -53,10 +53,6 @@ FROM empleado
 WHERE id_puesto IN
 	(SELECT id_puesto FROM puesto WHERE salario > 10000);
 
-SELECT fecha,id_empleado, COUNT(id_venta) AS ventas
-FROM venta
-GROUP BY fecha, id_empleado;
--- Q2 Sol (ordenar por clave)
 SELECT id_empleado, min(total_ventas), max(total_ventas)
 FROM
  (SELECT clave, id_empleado, count(*) total_ventas

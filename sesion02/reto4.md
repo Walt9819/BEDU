@@ -15,7 +15,12 @@ WHERE id_puesto IN
 ### ¿Cuál es la cantidad mínima y máxima de ventas de cada empleado?
 
 ```
-TODO
+SELECT id_empleado, min(total_ventas), max(total_ventas)
+FROM
+ (SELECT clave, id_empleado, count(*) total_ventas
+      FROM venta
+      GROUP BY clave, id_empleado) AS sq
+GROUP BY id_empleado;
 ```
 
 ![R4_Q2.png](R4_Q2.png)
