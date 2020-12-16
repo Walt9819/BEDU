@@ -11,3 +11,4 @@
 |Sesión 4|[sesion04](sesion04)|03/12/2020|
 |Sesión 5|[sesion05](sesion05)|08/12/2020|
 |Sesión 6|[sesion06](sesion06)|10/12/2020|
+|Sesión 7|[sesion07](sesion07)|15/12/2020|
