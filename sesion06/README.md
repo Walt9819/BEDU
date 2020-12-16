@@ -1,4 +1,4 @@
-# Sesión 5: Fundamentos de MongoDB
+# Sesión 6: Consultas en MongoDB
 <hr></hr>
 
 ## Index
