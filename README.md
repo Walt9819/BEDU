@@ -5,7 +5,7 @@
 ## Index
 
 <details><summary>Módulo 1</summary>
-
+<br>
 |Topic|Folder|Date|
 |-|-|-|
 |Sesión 1|[sesion01](mod1/sesion01)|24/11/2020|
@@ -19,7 +19,7 @@
 </details>
 
 <details><summary>Módulo 2</summary>
-
+<br>
 |Topic|Folder|Date|
 |-|-|-|
 |Sesión 1|[sesion01](mod2/sesion01)|07/01/2021|
