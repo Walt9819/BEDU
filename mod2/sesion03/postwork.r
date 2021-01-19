@@ -123,9 +123,7 @@ library(hrbrthemes) # themes
 
 ggplot(cum.data, aes(x = HG, y = AG, fill=Z)) + 
   geom_tile() +
-  labs(x = "Goles equipo de casa", y = "Goles equipo visitante", fill="Probabilidad conjunta", title="Probabilidades (conjuntas) goles equipo de casa y visitante") +
-  scale_fill_gradient(low="#F0F0F0", high="blue") +
-  theme_ipsum()
+  labs(x = "Goles equipo de casa", y = "Goles equipo visitante", fill="Probabilidad conjunta", title="Probabilidades (conjuntas) goles equipo de casa y visitante")
 
 
 #### Not working on my machine :(
@@ -136,8 +134,6 @@ cum.data <- cum.data %>%
 
 goals.plot <- ggplot(cum.data, aes(x = HG, y = AG, fill=Z, text=text)) + 
   geom_tile() +
-  labs(x = "Goles equipo de casa", y = "Goles equipo visitante", fill="Probabilidad conjunta", title="Probabilidades (conjuntas) goles equipo de casa y visitante") +
-  scale_fill_gradient(low="#F0F0F0", high="blue") +
-  theme_ipsum()
+  labs(x = "Goles equipo de casa", y = "Goles equipo visitante", fill="Probabilidad conjunta", title="Probabilidades (conjuntas) goles equipo de casa y visitante")
 
 ggplotly(goals.plot, tooltip="text")
