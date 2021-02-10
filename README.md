@@ -21,10 +21,24 @@
 
 <details><summary>Módulo 2</summary>
 <br><br/>
- 
+
+### R
+
 |Topic|Folder|Date|
 |-|-|-|
-|Sesión 1|[sesion01](mod2/sesion01)|07/01/2021|
-|Sesión 2|[sesion02](mod2/sesion02)|12/01/2021|
+|Sesión 1|[sesion01](mod2/R/sesion01)|07/01/2021|
+|Sesión 2|[sesion02](mod2/R/sesion02)|12/01/2021|
+|Sesión 3|[sesion03](mod2/R/sesion03)|14/01/2021|
+|Sesión 4|[sesion04](mod2/R/sesion04)|19/01/2021|
+|Sesión 5|[sesion05](mod2/R/sesion05)|21/01/2021|
+|Sesión 6|[sesion06](mod2/R/sesion06)|26/01/2021|
+|Sesión 7|[sesion07](mod2/R/sesion07)|28/01/2021|
+|Sesión 8|[sesion08](mod2/R/sesion08)|02/02/2021|
+
+
+### Python
+|Topic|Folder|Date|
+|-|-|-|
+|Sesión 1|[sesion01](mod2/Python/sesion01)|09/02/2021|
 
 </details>
